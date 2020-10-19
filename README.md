@@ -4,8 +4,8 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
                                                           ======================
 ## Intervenants
 
-1. Fidèle TIENDREBEOGO, Institut de l'Environnement et de Recherches Agricoles (INERA)/CNRST, `<fidele.tiendrebeogo@wave-center.org >` (responsable)
-2. Ezechiel B. TIBIRI, PostDoc INERA `<etibiri@agshare.today>` (co-responsable)
+1. Fidèle TIENDREBEOGO, INERA/CNRST, `<fidele.tiendrebeogo@wave-center.org >` (responsable)
+2. Ezechiel B. TIBIRI, Post-Doc INERA, `<etibiri@agshare.today>` (co-responsable)
 
 ## Prérequis
 
@@ -24,11 +24,27 @@ Chapitres à traiter :
 * Phylogénie
 * Recombinaison
 * Conclusion
-
+Temps estimé : 4 heures.
 ## Ressources à télécharger
 * [MEGA X](https://www.megasoftware.net/active_download)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
 ## TD et analyses des séquences
- * 1. Assemblage de séquences nucléotidiques
- * 1.1 Nettoyage des séquences brutes
+ * Assemblage de séquences nucléotidiques
+ * Nettoyage des séquences brutes
+ * Assemblage *de novo
+ * Assemblage avec génome de réference
+ * Annotation
+ * Alignement de séquences
+ * Constitution de jeu de données
+ * Construction d'arbre phylogénétique
+ 
+ Temps estimé : 12 heures.
+## Introduction à l'environement UNIX
+
+
+Temps estimé : 3 heures.
+## Base de programmation Python
+
+
+Temps estimé : 3 heures.
