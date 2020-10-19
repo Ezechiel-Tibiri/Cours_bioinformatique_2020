@@ -24,7 +24,7 @@ Chapitres à traiter :
 * Phylogénie
 * Recombinaison
 * Conclusion
-*Temps estimé : 4 heures.*
+* Temps estimé : 4 heures.*
 ## Ressources à télécharger
 * [MEGA X](https://www.megasoftware.net/active_download)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
