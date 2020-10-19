@@ -32,7 +32,7 @@ Temps estimé : 4 heures.
 ## TD et analyses des séquences
  * Assemblage de séquences nucléotidiques
  * Nettoyage des séquences brutes
- * Assemblage *de novo
+ * Assemblage *de novo*
  * Assemblage avec génome de réference
  * Annotation
  * Alignement de séquences
