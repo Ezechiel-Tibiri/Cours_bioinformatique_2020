@@ -20,4 +20,7 @@ Chapitres à traiter :
 * Définitions et Rappels
 * Obtention des données
 * Alignement
-* Évaluation de la diversité​
+* Évaluation de la diversité
+* Phylogénie
+* Recombinaison
+* Conclusion
