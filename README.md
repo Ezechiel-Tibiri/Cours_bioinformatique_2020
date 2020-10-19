@@ -17,12 +17,12 @@ Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezec
 
 Chapitres à traiter :
 
-* 1. Définitions et Rappels
-* 2. Obtention des données
-* 3. Alignement
-* 4. Évaluation de la diversité
-* 5. Phylogénie
-* 6. Recombinaison
+* Définitions et Rappels
+* Obtention des données
+* Alignement
+* Évaluation de la diversité
+* Phylogénie
+* Recombinaison
 * Conclusion
 
 ## Ressources à télécharger
@@ -31,4 +31,4 @@ Chapitres à traiter :
 
 ## TD et analyses des séquences
 * Assemblage de séquences nucléotidiques
- Nettoyage des séquences brutes
+* Nettoyage des séquences brutes
