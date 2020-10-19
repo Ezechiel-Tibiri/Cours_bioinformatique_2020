@@ -4,7 +4,7 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
                                                           ======================
 ## Intervenants
 
-1. Fidèle TIENDREBEOGO, Institut de l'Environnement et de Recherches Agricoles (INERA), `<fidele.tiendrebeogo@wave-center.org >` (responsable)
+1. Fidèle TIENDREBEOGO, Institut de l'Environnement et de Recherches Agricoles (INERA)/CNRST, `<fidele.tiendrebeogo@wave-center.org >` (responsable)
 2. Ezechiel B. TIBIRI, PostDoc INERA `<etibiri@agshare.today>` (co-responsable)
 
 ## Prérequis
@@ -24,3 +24,7 @@ Chapitres à traiter :
 * Phylogénie
 * Recombinaison
 * Conclusion
+
+## Ressources à télécharger
+* [MEGA X](https://www.megasoftware.net/active_download)
+* [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
