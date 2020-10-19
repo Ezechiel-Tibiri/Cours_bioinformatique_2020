@@ -17,14 +17,18 @@ Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezec
 
 Chapitres à traiter :
 
-* Définitions et Rappels
-* Obtention des données
-* Alignement
-* Évaluation de la diversité
-* Phylogénie
-* Recombinaison
+* 1. Définitions et Rappels
+* 2. Obtention des données
+* 3. Alignement
+* 4. Évaluation de la diversité
+* 5. Phylogénie
+* 6. Recombinaison
 * Conclusion
 
 ## Ressources à télécharger
 * [MEGA X](https://www.megasoftware.net/active_download)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
+
+## TD et analyses des séquences
+* Assemblage de séquences nucléotidiques
+ Nettoyage des séquences brutes
