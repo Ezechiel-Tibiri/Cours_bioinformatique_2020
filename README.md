@@ -14,3 +14,10 @@ Dans un premier temps, nous vous suggérons d'apprendre les bases du [dogme cent
 Temps estimé : 4 heures.
 
 Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/Cours_bioinformatique_octobre_2020.pdf) qui sera mis à jour au fure et à mésure que le cours progresse.
+
+Chapitres à traiter :
+
+* Définitions et Rappels
+* Obtention des données
+* Alignement
+* Évaluation de la diversité​
