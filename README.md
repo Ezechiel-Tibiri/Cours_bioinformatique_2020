@@ -30,5 +30,5 @@ Chapitres à traiter :
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
 ## TD et analyses des séquences
- 1. Assemblage de séquences nucléotidiques
- 1.1 Nettoyage des séquences brutes
+ * 1. Assemblage de séquences nucléotidiques
+ * 1.1 Nettoyage des séquences brutes
