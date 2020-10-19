@@ -9,4 +9,4 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
 
 ## Prérequis
 
-Dans un premier temps, nous vous suggérons d'apprendre les bases du dogme central de la biologie moléculaire sur le site de
+Dans un premier temps, nous vous suggérons d'apprendre les bases du dogme central de la biologie moléculaire sur le site de [Histoire de la biologie moléculaire](http://www.foad-mooc.auf.org/IMG/pdf/uec2_cours_biologie_moleculaire_diapos.compressed.pdf)
