@@ -30,6 +30,16 @@ Chapitres à traiter :
 * [MEGA X](https://www.megasoftware.net/active_download)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
+### TODO, à faire pour le cours prochain
+* Je de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip) Le resultat doit être fourni en format <csv>
+|Virus name| N° d'accession | Genome Size (bp) | X | Length read | DeepSimulator parameter |    
+| :-------------:|:-------------:| :-----:|:-----:|:-----:|:--------------:|
+| Sweet potato virus C |KF386015| 10793 | 10 | 1000 | -n 108 -l 1000 |  
+| Sweet potato feathery mottle virus|MF572055 | 11004 |10 | 1000 | -n 110 -l 1000   |
+| Sweet potato chlorotic stunt virus RNA1|KC146840|8637|10|1000 | -n 86 -l 1000 |
+| Ipomoea batatas chloroplast |NC_026703| 161303 | 30 | 1000 | -n 4840 -l 1000 |
+
+
 ## TD et analyses des séquences
  * Assemblage de séquences nucléotidiques
  * Nettoyage des séquences brutes
