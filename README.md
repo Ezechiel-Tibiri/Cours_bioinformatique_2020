@@ -31,7 +31,7 @@ Chapitres à traiter :
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
 ### TODO, à faire à la maison avant le prochain cours
-* Jeu de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip). Le resultat doit être fourni en format `csv` (en suivant l'exemple du tableau ci-dessous) et envoyer au email suivant : `e.tibiri@agshare.today`. NCBI, BLAST(nucleotide et proteine) et google pourront vous aider. **bon courage!
+* Jeu de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip). Le résultat doit être fourni en format `csv` (en suivant l'exemple du tableau ci-dessous) et envoyer au email suivant : `e.tibiri@agshare.today`. NCBI, BLAST(nucléotide et protéine) et Google pourront vous aider. **bon courage**!
 
 * Télécharger et installer les logiciels MEGAX & BIOEDIT 
 
