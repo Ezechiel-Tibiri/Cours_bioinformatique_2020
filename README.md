@@ -32,6 +32,7 @@ Chapitres à traiter :
 
 ### TODO, à faire pour le cours prochain
 * Je de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip) Le resultat doit être fourni en format <csv>
+* 
 |Virus name| N° d'accession | Genome Size (bp) | X | Length read | DeepSimulator parameter |    
 | :-------------:|:-------------:| :-----:|:-----:|:-----:|:--------------:|
 | Sweet potato virus C |KF386015| 10793 | 10 | 1000 | -n 108 -l 1000 |  
