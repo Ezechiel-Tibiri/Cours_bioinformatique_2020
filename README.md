@@ -43,7 +43,8 @@ Chapitres à traiter :
 |  ||  |  |  |  |
 
 
-## TD et analyses des séquences
+## TD, TP et analyses des séquences
+ * Obtention des séquences (NCBI)
  * Assemblage de séquences nucléotidiques
  * Nettoyage des séquences brutes
  * Assemblage *de novo*
