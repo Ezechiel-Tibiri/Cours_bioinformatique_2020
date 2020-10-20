@@ -18,7 +18,7 @@ Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezec
 Chapitres à traiter :
 
 * Définitions et Rappels
-* Obtention des données
+* [Obtention des données](https://www.ncbi.nlm.nih.gov/)
 * Alignement
 * Évaluation de la diversité
 * Phylogénie
