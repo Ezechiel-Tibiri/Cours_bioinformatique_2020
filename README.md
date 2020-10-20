@@ -5,7 +5,7 @@ Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce d
 ## Intervenants
 
 1. Fidèle TIENDREBEOGO, INERA/CNRST, `<fidele.tiendrebeogo@wave-center.org >` (responsable)
-2. Ezechiel B. TIBIRI, Post-Doc INERA, `<etibiri@agshare.today>` (co-responsable)
+2. Ezechiel B. TIBIRI, Post-Doc INERA, `<e.tibiri@agshare.today>` (co-responsable)
 
 ## Prérequis
 
@@ -31,7 +31,7 @@ Chapitres à traiter :
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
 ### TODO, à faire pour le cours prochain
-* Je de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip) Le resultat doit être fourni en format `csv`
+* Je de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip). Le resultat doit être fourni en format `csv` et envoyer au email suivant : `<e.tibiri@agshare.today>`
 
 |Seq|Organism name| N°accession | Sequence Size (bp) | origin country | Molecule type | Gene number |    
 | :-------------:| :-------------:|:-------------:| :-----:|:-----:|:-----:|:--------------:|
