@@ -19,6 +19,7 @@ Chapitres à traiter :
 
 * Définitions et Rappels
 * [Obtention des données](https://www.ncbi.nlm.nih.gov/)
+[Données de TP](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data.zip)
 * Alignement
 * Évaluation de la diversité
 * Phylogénie
@@ -38,7 +39,7 @@ Chapitres à traiter :
  * Alignement de séquences
  * Constitution de jeu de données
  * Construction d'arbre phylogénétique
- 
+ * 
  *Temps estimé : 12 heures.*
 ## Introduction à l'environement UNIX
 
