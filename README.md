@@ -59,7 +59,7 @@ Chapitres à traiter :
 
 
 *Temps estimé : 3 heures.*
-## Base de programmation Python
+## [Base de programmation Python](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/Introduction_python.md)
 
 
 *Temps estimé : 3 heures.*
