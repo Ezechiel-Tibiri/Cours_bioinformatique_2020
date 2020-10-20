@@ -155,7 +155,7 @@ print('Hello world!')
 # D'autres commandes plus utiles pourraient suivre.
 ```
  **Remarque**
-On appelle souvent à tort le caractère `#` « dièse ». On devrait plutôt parler de « [https://fr.wikipedia.org/wiki/Croisillon_(signe)croisillon]() ».
+On appelle souvent à tort le caractère `#` « dièse ». On devrait plutôt parler de « [croisillon](https://fr.wikipedia.org/wiki/Croisillon) ».
 
 ## 1.8 Notion de bloc d'instructions et d'indentation
 En programmation, il est courant de répéter un certain nombre de choses (avec les boucles, voir le chapitre 5 Boucles et comparaisons) ou d'exécuter plusieurs instructions si une condition est vraie (avec les tests, voir le chapitre 6 Tests).
