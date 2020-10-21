@@ -27,7 +27,7 @@ Chapitres à traiter :
 * Conclusion
 * Temps estimé : 4 heures.*
 ## Ressources à télécharger
-* [MEGA X](https://www.megasoftware.net/active_download)
+* [MEGA X](https://www.megasoftware.net/)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
 
 ### TODO, à faire à la maison avant le prochain cours
