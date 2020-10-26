@@ -20,7 +20,7 @@ Chapitres à traiter :
 * Définitions et Rappels
 * [Obtention des données](https://www.ncbi.nlm.nih.gov/)
 [Données de TP](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data.zip)
-* [Alignement)(https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/alignement.md)
+* [Alignement](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/alignement.md)
 * Évaluation de la diversité
 * Phylogénie
 * Recombinaison
