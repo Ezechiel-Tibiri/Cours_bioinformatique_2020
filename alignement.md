@@ -77,4 +77,4 @@ Il s'agit d'un algorithme de programmation dynamique pour l'alignement global op
 
 * [Alignement avec MegaX](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data.zip)
 * Télécharger le nouveau fichier pour l'alignement en utilisant l'option MUSCLE [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data_new.zip), puis exporter le resultat d'alignement sous un nouveau nom (**aln1_SPFMV.fasta**).
-* Télécharger 15 séquences (28 - 30 kb) du **Severe acute respiratory syndrome coronavirus 2**(SARS-CoV-2), en suite faire un alignement avec MUSCLE puis CLUSTAL*W* du logiciel **MEGAX** en gardant les paramètres par defaut. Existe-t-il une grande différence entre les 15 génomes? Si oui, où (quelle partie de la séquence) l'on rencotre une diversité?
+* Télécharger 15 séquences (28 - 30 kb) du **Severe acute respiratory syndrome coronavirus 2** (SARS-CoV-2), en suite faire un alignement avec MUSCLE puis CLUSTAL*W* du logiciel **MEGAX** en gardant les paramètres par defaut. Existe-t-il une grande différence entre les 15 génomes? Si oui, où (quelle partie de la séquence) l'on rencotre une diversité?
