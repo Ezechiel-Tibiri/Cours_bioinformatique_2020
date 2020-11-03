@@ -29,6 +29,7 @@ Chapitres à traiter :
 ## Ressources à télécharger
 * [MEGA X](https://www.megasoftware.net/)
 * [bioedit](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/setup.exe)
+* [FigTree](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/FigTree%20v1.4.3.exe)
 
 ### TODO, à faire à la maison avant le prochain cours
 * Jeu de données de l'exercice de maison à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/todo.zip). Le résultat doit être fourni en format `csv` (en suivant l'exemple du tableau ci-dessous) et envoyer au email suivant : `e.tibiri@agshare.today`. NCBI, BLAST(nucléotide et protéine) et Google pourront vous aider. **bon courage**!
