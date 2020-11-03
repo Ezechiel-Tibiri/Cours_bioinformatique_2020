@@ -22,7 +22,7 @@ Chapitres à traiter :
 [Données de TP](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data.zip)
 * [Alignement](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/alignement.md)
 * Évaluation de la diversité
-* Phylogénie
+* [Phylogénie](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/alnM1_HIV_KAGAMBEGA_Yves_Donald.fas)
 * Recombinaison
 * Conclusion
 * Temps estimé : 4 heures.*
