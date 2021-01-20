@@ -54,7 +54,7 @@ Chapitres à traiter :
  * Alignement de séquences
  * Constitution de jeu de données
  * Construction d'arbre phylogénétique
- * 
+ * [A Télécharcher](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/spfm_tree.nwk)
  *Temps estimé : 12 heures.*
 ## [Introduction à l'environement UNIX](https://github.com/Ezechiel-Tibiri/GNU-LINUX)
 
