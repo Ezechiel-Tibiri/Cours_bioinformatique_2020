@@ -66,4 +66,10 @@ Chapitres à traiter :
 *Temps estimé : 3 heures.*
 
 # Devoir de bioinformatique M1 UJKZ
-* Construire un arbre phylogenetique avec les données du SARS-Cov2 à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/sars-cov2.fasta)
+
+* Construire un arbre phylogenetique avec les données du SARS-Cov2 à télécharger [ici](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/sarscov2.zip).
+* Les numéros d'accession différents variants majeurs connus (Sud Africain, Britanique et Bresilien) devront être representés sur votre arbre (au moins un individu par variant). Au besoin vous devriez les télécharger et les ajouter à votre jeu de donnée.
+* L'arbre doit avoir une bonne topologie, bien lisible et doit être deposé sous format .jpeg ou .jpn
+* Votre de travail devra être depos sur ce lien (https://drive.google.com/drive/folders/1v_M6IUwlmze-5g1Z4v3E8Py_gySDZim0?usp=sharing) avant le 14 février 2021.
+* Vous pouvez me contacter sur slack pour toutes questions
+* Bon courage à tous.t.e.s
