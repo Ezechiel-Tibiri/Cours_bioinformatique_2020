@@ -64,3 +64,6 @@ Chapitres à traiter :
 
 
 *Temps estimé : 3 heures.*
+
+# Devoir de bioinformatique M1 UJKZ
+* Construire un arbre phylogenetique avec les données du SARS-Cov2 à télécharger [ici]()
