@@ -72,4 +72,4 @@ Chapitres à traiter :
 * L'arbre doit avoir une bonne topologie, bien lisible et doit être deposé sous format .**jpeg** ou .**jpn**
 * Votre de travail devra être depos sur ce lien (https://drive.google.com/drive/folders/1v_M6IUwlmze-5g1Z4v3E8Py_gySDZim0?usp=sharing) avant le **14 février 2021**.
 * Vous pouvez me contacter sur slack pour toutes questions
-* *Bon courage à tous.t.e.s
+* *Bon courage à tous.t.e.s*
