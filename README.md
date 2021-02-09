@@ -73,3 +73,16 @@ Chapitres à traiter :
 * Votre de travail devra être deposé sur ce lien (https://drive.google.com/drive/folders/1v_M6IUwlmze-5g1Z4v3E8Py_gySDZim0?usp=sharing) avant le **14 février 2021** sous le format de nom de fichier suivant: bioinfo_M1-groupX.jpeg (X = numéro du groupe exemple *bioinfo_M1-group1.jpeg*).
 * Vous pouvez me contacter sur slack pour toutes questions
 * *Bon courage à tous.t.e.s*
+
+# Liste et composition des groupes
+* Groupe 1
+
+|Groupe 1|Noms| Prénoms |    
+| :-------:| :---------:|:---------:|
+| 1 |AMADOU| Oumarou Moustapha |
+|2 | ILLIASSOU |Hamza |
+|3 | MAIGA | Amadou |
+| 4 | OUEDRAOGO | Adjaratou |
+| 5 |OUEDRAOGO | Souleyman |
+| 6 |OUEDRAOGO |Sylvain |
+|7 | SANFO | Aboul Rachid |
