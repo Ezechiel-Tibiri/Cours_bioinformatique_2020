@@ -164,3 +164,50 @@ Chapitres à traiter :
 |9|	OUEDRAOGO |			Larissa |
 |10	|SOME		|	Nadia Léticia|
 |11|	ZIGANI|			San Ny Anou Stéphane|
+
+* Groupe 7
+
+|Groupe 7|	Noms |Prénoms|
+| :-------:| :---------:|:---------:|				
+|1|	BISSIRI	|		Souleymane|
+|2|	IBRANGO	|		Enock|
+|3|	ILBOUDO	|		Sadia|
+|4|	IVO	|		Lassina|
+|5|	KINORE|			Mikaïla|
+|6|	HIEN	|		Oumarou|
+|7|	MOYENGA|		Alassane|
+|8|	NAGALO	|		Issa|
+|9|	OUANDE	|		Yacouba|
+|10|	OUEDRAOGO	|		François Larba|
+|11|	OUEDRAOGO	|		Rasmata|
+
+* Groupe 8
+
+|Groupe 8|Noms|	Prénoms|
+| :-------:| :---------:|:---------:|				
+|1|SAMTOUMA|Dorcas|
+|2|	SANKARA|	Iss|aka|
+|3|	SANOU	|		Madou|
+|4|	SAWADOGO|	Rahamane|
+|5|	SAWADOGO|	Mamady|
+|6|	SOME	|		Ernest|
+|7|	TRAORE	|	Salimata|
+|8|	ZAMPALIGRE	|	Adama|
+|9|	ZAPRE	|		Aïcha|
+|10|	ZONGO	|		Sandrine|
+|11|	ZOUNGRANA|		Ali|
+
+* Groupe 9
+
+|Groupe 9|	Noms|			Prénoms|
+| :-------:| :---------:|:---------:|					
+|1|	GO	|		Inoussa|
+|2|	KABRE	|		Souleymane|
+|3|	KONATE	|		Zegué Amidou|
+|4|	KUDAWO	|		H. Wilfried|
+|5|	NIKIEMA	|		K. Rocsane|
+|6|	SAWADOGO	|		Elisé|
+|7|	SAWADOGO	|		Abdou|
+|8|	SAWADOGO|			Saidou|
+|9|	SORGHO		|	Vanessa|
+|10|	TIENE		|	Wouleyon|
