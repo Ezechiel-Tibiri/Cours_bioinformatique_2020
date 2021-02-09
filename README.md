@@ -151,7 +151,25 @@ Chapitres à traiter :
 
 * Groupe 6
 
-|Groupe 6 |	Noms |Prénoms |
+|Groupe 6|	Noms	|	Prénoms|
+| :-------:| :---------:|:---------:|					
+|1|	GUEDJE|	Deborah Améli E.|
+|2|	KOLOGO|			W. Barnabé|
+|3|	KOUHOUMOURI|			P. Justine|
+|4|	OUEREMI		|	Albert|
+|5|	SAMA	|		W. Alexis|
+|6	|SAVADOGO		|	Mousso|
+|7|	SAWADOGO	|		Salam|
+|8|	SEREME		|	Emmanuel|
+|9|	TASSEMBEDO	|		Fadilatou|
+|10|	THIO	|		Marie Leslie Eléonone|
+
+
+* Groupe 7
+
+
+
+|Groupe 7 |	Noms |Prénoms |
 | :-------:| :---------:|:---------:|				
 |1 |	KABORE	|		Tarwendsia M. Alexia |
 |2|	KAGAMBEGA	|		Yves Donald|
@@ -165,9 +183,9 @@ Chapitres à traiter :
 |10	|SOME		|	Nadia Léticia|
 |11|	ZIGANI|			San Ny Anou Stéphane|
 
-* Groupe 7
+* Groupe 8
 
-|Groupe 7|	Noms |Prénoms|
+|Groupe 8|	Noms |Prénoms|
 | :-------:| :---------:|:---------:|				
 |1|	BISSIRI	|		Souleymane|
 |2|	IBRANGO	|		Enock|
@@ -181,9 +199,9 @@ Chapitres à traiter :
 |10|	OUEDRAOGO	|		François Larba|
 |11|	OUEDRAOGO	|		Rasmata|
 
-* Groupe 8
+* Groupe 9
 
-|Groupe 8|Noms|	Prénoms|
+|Groupe 9|Noms|	Prénoms|
 | :-------:| :---------:|:---------:|				
 |1|SAMTOUMA|Dorcas|
 |2|	SANKARA|	Iss|aka|
@@ -197,9 +215,9 @@ Chapitres à traiter :
 |10|	ZONGO	|		Sandrine|
 |11|	ZOUNGRANA|		Ali|
 
-* Groupe 9
+* Groupe 10
 
-|Groupe 9|	Noms|			Prénoms|
+|Groupe 10|	Noms|			Prénoms|
 | :-------:| :---------:|:---------:|					
 |1|	GO	|		Inoussa|
 |2|	KABRE	|		Souleymane|
@@ -211,3 +229,36 @@ Chapitres à traiter :
 |8|	SAWADOGO|			Saidou|
 |9|	SORGHO		|	Vanessa|
 |10|	TIENE		|	Wouleyon|
+
+
+* Groupe 11
+
+|Groupe 11|	Noms		|	Prénoms|
+| :-------:| :---------:|:---------:|					
+|1|	BISSIRI|			Souleymane|
+|2|	IBRANGO|			Enock|
+|3|	ILBOUDO	|		Sadia|
+|4|	IVO	|		Lassina|
+|5|	KINORE	|		Mikaïla|
+|6|	HIEN	|		Oumarou|
+|7	MOYENGA|			Alassane|
+|8|	NAGALO|			Issa|
+|9|	OUANDE|			Yacouba|
+|10|OUEDRAOGO|			François Larba|
+|11|	OUEDRAOGO|			Rasmata|
+
+* Groupe 12
+
+|Groupe 12|	Noms	|		Prénoms|
+| :-------:| :---------:|:---------:|				
+|1|	SAMTOUMA	|		Dorcas|
+|2|	SANKARA	|		Issaka|
+|3|	SANOU		|	Madou|
+|4	|SAWADOGO|	Rahamane|
+|5|	SAWADOGO	|		Mamady|
+|6|	SOME	|		Ernest|
+|7|	TRAORE	|		Salimata|
+|8|	ZAMPALIGRE	|		Adamav
+|9|	ZAPRE	|		Aïcha|
+|10|	ZONGO	|		Sandrine|
+|11	|ZOUNGRANA	|		Ali|
