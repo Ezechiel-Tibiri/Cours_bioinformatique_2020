@@ -86,3 +86,81 @@ Chapitres à traiter :
 | 5 |OUEDRAOGO | Souleyman |
 | 6 |OUEDRAOGO |Sylvain |
 |7 | SANFO | Aboul Rachid |
+| 8 | SAWADOGO | Abdoul Aziz |
+
+* Groupe 2
+
+
+|Groupe 2|Noms| Prénoms |    
+| :-------:| :---------:|:---------:|
+| 1 |ARIKEWUSOLA| Aboudulkodi Ayindé |
+|2 | BARMOU |Abdoul Razack |
+|3 | DIABO | Jacqueline Dorothée |
+| 4 | ILBOUDO | Assita |
+| 5 |KASSINGA | Véronique |
+| 6 |OUEDRAOGO |Flavien |
+|7 | OZONAN | Bassia|
+| 8 |ROUAMBA | Samuel|
+
+* Groupe 3
+
+|Groupe 3|Noms| Prénoms |    
+| :-------:| :---------:|:---------:|
+| 1 |ADAMOU| Garba Ferdosse |
+|2 | AROUNA |Djibrilla Hassane |
+|3 | HADI | Zacharia Ali |
+| 4 | KABORE | Valentin |
+| 5 |OUEDRAOGO | Zoulbila |
+| 6 |SANDWIOLI |Yolande |
+|7 | SAWADOGO | Issaka |
+
+* Groupe 4
+
+|Groupe 4|Noms| Prénoms |    
+| :-------:| :---------:|:---------:|
+| 1 |BAMOGO| Haguinata |
+|2 |BOUNELE |Myriam |
+|3 | COMPAORE | Abdoul Razack |
+| 4 | OUATTARA| Alhassane |
+| 5 |DA | Thô Abou |
+| 6 |ONADJA |Igor |
+|7 | PARE | Yasmine |
+| 8 |SALAMBERE |Inoussa |
+| 9 |SAWADOGO | Adama |
+| 10|SAWADOGO |Moumini |
+|11 |TOUGBA | Salfo |
+|12 | ZOUNDI | Stéphanie |
+
+
+* Groupe 5
+
+|Groupe 5|Noms| Prénoms |    
+| :-------:| :---------:|:---------:|
+| 1 |BOLLY| Moussa |
+|2 |BOURGOU |Blaise |
+|3 | GHANKOBA | Maligbéti |
+| 4 | KINDO| Abdoul Rahim |
+| 5 |POUYA | Lucien |
+| 6 |ROUAMBA |Vincent |
+|7 | SANA| Mahamadi |
+| 8 |SELE |Siaka |
+| 9 |SAWADOGO | Modeste |
+| 10|SOUSSOUBALI |Siriki |
+|11 |TOUGBA | Inoussa|
+
+
+* Groupe 6
+
+|Groupe 6 |	Noms |Prénoms |
+| :-------:| :---------:|:---------:|				
+|1 |	KABORE	|		Tarwendsia M. Alexia |
+|2|	KAGAMBEGA	|		Yves Donald|
+|3|	KANE	|		Isaie|
+|4|	KINDA		|	Teed Wende Charlotte|
+|5|	KONE	|		Ousmane|
+|6	|KOURAOGO		|	Ludovic|
+|7|	LASISI|			Nadiyah|
+|8	|OUEDRAOGO	|	|	Blandine|
+|9|	OUEDRAOGO |			Larissa |
+|10	|SOME		|	Nadia Léticia|
+|11|	ZIGANI|			San Ny Anou Stéphane|
