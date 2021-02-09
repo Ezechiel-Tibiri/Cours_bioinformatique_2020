@@ -241,7 +241,7 @@ Chapitres à traiter :
 |4|	IVO	|		Lassina|
 |5|	KINORE	|		Mikaïla|
 |6|	HIEN	|		Oumarou|
-|7	MOYENGA|			Alassane|
+|7|	MOYENGA|			Alassane|
 |8|	NAGALO|			Issa|
 |9|	OUANDE|			Yacouba|
 |10|OUEDRAOGO|			François Larba|
