@@ -160,7 +160,7 @@ Chapitres à traiter :
 |5|	KONE	|		Ousmane|
 |6	|KOURAOGO		|	Ludovic|
 |7|	LASISI|			Nadiyah|
-|8	|OUEDRAOGO	|	|	Blandine|
+|8	|OUEDRAOGO	|	Blandine|
 |9|	OUEDRAOGO |			Larissa |
 |10	|SOME		|	Nadia Léticia|
 |11|	ZIGANI|			San Ny Anou Stéphane|
