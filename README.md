@@ -241,7 +241,7 @@ Chapitres à traiter :
 |4|	GOUDJA|			Moussa Ibet|
 |5|	MAMAN	|		Sanoussi H. M|
 |6|	OUEDRAOGO	|		Amadiv
-|7|	OUEDRAOGO	v		Martine|
+|7|	OUEDRAOGO	|		Martine|
 |8|	SAMA|			Nenbie Florant|
 |9|	SAWADOGO|			W. Accée|
 |10|TIENDREBEOGO|			W. Patrick B|
