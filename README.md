@@ -235,17 +235,18 @@ Chapitres à traiter :
 
 |Groupe 11|	Noms		|	Prénoms|
 | :-------:| :---------:|:---------:|					
-|1|	BISSIRI|			Souleymane|
-|2|	IBRANGO|			Enock|
-|3|	ILBOUDO	|		Sadia|
-|4|	IVO	|		Lassina|
-|5|	KINORE	|		Mikaïla|
-|6|	HIEN	|		Oumarou|
-|7|	MOYENGA|			Alassane|
-|8|	NAGALO|			Issa|
-|9|	OUANDE|			Yacouba|
-|10|OUEDRAOGO|			François Larba|
-|11|	OUEDRAOGO|			Rasmata|
+|1|	BADO|			Bigné|
+|2|	BADO|			Salamani|
+|3|	COMPAORE|			Aristide|
+|4|	GOUDJA|			Moussa Ibet|
+|5|	MAMAN	|		Sanoussi H. M|
+|6|	OUEDRAOGO	|		Amadiv
+|7|	OUEDRAOGO	v		Martine|
+|8|	SAMA|			Nenbie Florant|
+|9|	SAWADOGO|			W. Accée|
+|10|TIENDREBEOGO|			W. Patrick B|
+|11|	YEMBONNE	|		Maïmouna|
+
 
 * Groupe 12
 
