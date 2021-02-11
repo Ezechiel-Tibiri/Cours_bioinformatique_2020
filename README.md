@@ -192,7 +192,7 @@ Chapitres à traiter :
 |3|	ILBOUDO	|		Sadia|
 |4|	IVO	|		Lassina|
 |5|	KINORE|			Mikaïla|
-|6|	HIEN	|		Oumarou|
+|6|	MIEN	|		Oumarou|
 |7|	MOYENGA|		Alassane|
 |8|	NAGALO	|		Issa|
 |9|	OUANDE	|		Yacouba|
@@ -204,9 +204,9 @@ Chapitres à traiter :
 |Groupe 9|Noms|	Prénoms|
 | :-------:| :---------:|:---------:|				
 |1|SAMTOUMA|Dorcas|
-|2|	SANKARA|	Iss|aka|
+|2|	SANKARA|	Issaka|
 |3|	SANOU	|		Madou|
-|4|	SAWADOGO|	Rahamane|
+|4|	SAVADOGO|	Rahamane|
 |5|	SAWADOGO|	Mamady|
 |6|	SOME	|		Ernest|
 |7|	TRAORE	|	Salimata|
